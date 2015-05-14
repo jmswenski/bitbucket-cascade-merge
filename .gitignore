@@ -1,0 +1,6 @@
+.env
+.docker_build/
+bin/
+.idea
+bitbucket-cascade-merge
+env.sh
